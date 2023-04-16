@@ -1,0 +1,10 @@
+D:\Martin\CS\C#_QuarkAcademy\GameJam03\00_AhorcadoMVP\Domain_AhorcadoMVP\bin\Debug\netcoreapp3.1\Domain_AhorcadoMVP.deps.json
+D:\Martin\CS\C#_QuarkAcademy\GameJam03\00_AhorcadoMVP\Domain_AhorcadoMVP\bin\Debug\netcoreapp3.1\Domain_AhorcadoMVP.dll
+D:\Martin\CS\C#_QuarkAcademy\GameJam03\00_AhorcadoMVP\Domain_AhorcadoMVP\bin\Debug\netcoreapp3.1\Domain_AhorcadoMVP.pdb
+D:\Martin\CS\C#_QuarkAcademy\GameJam03\00_AhorcadoMVP\Domain_AhorcadoMVP\obj\Debug\netcoreapp3.1\Domain_AhorcadoMVP.csproj.AssemblyReference.cache
+D:\Martin\CS\C#_QuarkAcademy\GameJam03\00_AhorcadoMVP\Domain_AhorcadoMVP\obj\Debug\netcoreapp3.1\Domain_AhorcadoMVP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\CS\C#_QuarkAcademy\GameJam03\00_AhorcadoMVP\Domain_AhorcadoMVP\obj\Debug\netcoreapp3.1\Domain_AhorcadoMVP.AssemblyInfoInputs.cache
+D:\Martin\CS\C#_QuarkAcademy\GameJam03\00_AhorcadoMVP\Domain_AhorcadoMVP\obj\Debug\netcoreapp3.1\Domain_AhorcadoMVP.AssemblyInfo.cs
+D:\Martin\CS\C#_QuarkAcademy\GameJam03\00_AhorcadoMVP\Domain_AhorcadoMVP\obj\Debug\netcoreapp3.1\Domain_AhorcadoMVP.csproj.CoreCompileInputs.cache
+D:\Martin\CS\C#_QuarkAcademy\GameJam03\00_AhorcadoMVP\Domain_AhorcadoMVP\obj\Debug\netcoreapp3.1\Domain_AhorcadoMVP.dll
+D:\Martin\CS\C#_QuarkAcademy\GameJam03\00_AhorcadoMVP\Domain_AhorcadoMVP\obj\Debug\netcoreapp3.1\Domain_AhorcadoMVP.pdb

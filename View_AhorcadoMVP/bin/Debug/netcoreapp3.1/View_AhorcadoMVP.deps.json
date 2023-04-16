@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "View_AhorcadoMVP/1.0.0": {
+        "dependencies": {
+          "Presenter_AhorcadoMVP": "1.0.0"
+        },
+        "runtime": {
+          "View_AhorcadoMVP.dll": {}
+        }
+      },
+      "Domain_AhorcadoMVP/1.0.0": {
+        "runtime": {
+          "Domain_AhorcadoMVP.dll": {}
+        }
+      },
+      "Presenter_AhorcadoMVP/1.0.0": {
+        "dependencies": {
+          "Domain_AhorcadoMVP": "1.0.0"
+        },
+        "runtime": {
+          "Presenter_AhorcadoMVP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "View_AhorcadoMVP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain_AhorcadoMVP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Presenter_AhorcadoMVP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

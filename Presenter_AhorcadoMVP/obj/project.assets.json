@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Domain_AhorcadoMVP/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Domain_AhorcadoMVP.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain_AhorcadoMVP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Domain_AhorcadoMVP/1.0.0": {
+      "type": "project",
+      "path": "../Domain_AhorcadoMVP/Domain_AhorcadoMVP.csproj",
+      "msbuildProject": "../Domain_AhorcadoMVP/Domain_AhorcadoMVP.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Domain_AhorcadoMVP >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\marti\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Martin\\CS\\C#_QuarkAcademy\\GameJam03\\00_AhorcadoMVP\\Presenter_AhorcadoMVP\\Presenter_AhorcadoMVP.csproj",
+      "projectName": "Presenter_AhorcadoMVP",
+      "projectPath": "D:\\Martin\\CS\\C#_QuarkAcademy\\GameJam03\\00_AhorcadoMVP\\Presenter_AhorcadoMVP\\Presenter_AhorcadoMVP.csproj",
+      "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
+      "outputPath": "D:\\Martin\\CS\\C#_QuarkAcademy\\GameJam03\\00_AhorcadoMVP\\Presenter_AhorcadoMVP\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\Martin\\CS\\C#_QuarkAcademy\\GameJam03\\00_AhorcadoMVP\\Domain_AhorcadoMVP\\Domain_AhorcadoMVP.csproj": {
+              "projectPath": "D:\\Martin\\CS\\C#_QuarkAcademy\\GameJam03\\00_AhorcadoMVP\\Domain_AhorcadoMVP\\Domain_AhorcadoMVP.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
