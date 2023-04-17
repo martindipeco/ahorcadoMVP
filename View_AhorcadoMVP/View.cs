@@ -116,7 +116,7 @@ namespace View_AhorcadoMVP
                     {
                         Console.WriteLine("Ingresaste más de una letra");
                     }
-                    else if (_Presenter.GetLettersGuessed().Contains(letraElegida))
+                    else if (_Presenter.GetLetrasUsadas().Contains(letraElegida))
                     {
                         Console.WriteLine("Ya elegiste esa letra");
                     }
