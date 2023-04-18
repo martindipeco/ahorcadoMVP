@@ -79,7 +79,7 @@ namespace View_AhorcadoMVP
                 Console.WriteLine("¿Qué letra elegís?");
                 String letraElegida = Console.ReadLine().ToLower();
 
-                if (letraElegida.Length == 1 && char.IsLetter(letraElegida[0]) && !_Presenter.GetLettersGuessed().Contains(letraElegida))
+                if (letraElegida.Length == 1 && char.IsLetter(letraElegida[0]) && !_Presenter.GetLetrasUsadas().Contains(letraElegida))
                 {
                     Console.Clear();
                     _Presenter.CheckAddLetter(letraElegida);
